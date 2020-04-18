@@ -1,2 +1,2 @@
 # larshadl.github.io
-A Website to
+This is a personal website where i showcase some og my projects
